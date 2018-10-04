@@ -66,7 +66,3 @@ echo -e
 sudo timeismoneyd -daemon
 
 echo -e
-
-^C
-
-cd
